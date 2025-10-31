@@ -32,14 +32,12 @@
 - Agile based Software Development
 - Azure DevOps Organizations and Projects
 - Azure Boards key concepts
-
   - Work items
   - Backlogs
   - Boards
   - Sprints
   - Plans
   - Queries
-
 - Integrating Azure Boards with GitHub
 - Tracking Project with Azure Boards
 
