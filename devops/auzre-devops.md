@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-### `Chapter 01`: Introduction to DevOps
+### `Chapter 01`: Introduction to DevOps (2 hours)
 
 - What is DevOps?
 - History of DevOps
@@ -18,7 +18,7 @@
 - Role and Responsibilities of a DevOps Engineer
 - Starting career in Azure DevOps
 
-### `Chapter 02`: Introduction to _Microsoft Azure DevOps_
+### `Chapter 02`: Introduction to _Microsoft Azure DevOps_ (2 hours)
 
 - What is Microsoft Azure DevOps?
 - Azure DevOps services Vs Azure DevOps Server
@@ -27,8 +27,9 @@
 - Azure DevOps vs other similar tools
 - Practice with Azure DevTest Labs
 
-### `Chapter 03`: Managing Project with _Azure Boards_
+### `Chapter 03`: Managing Project with _Azure Boards_ (3 hours)
 
+- Agile based Software Development
 - Azure DevOps Organizations and Projects
 - Azure Boards key concepts
 
@@ -42,7 +43,7 @@
 - Integrating Azure Boards with GitHub
 - Tracking Project with Azure Boards
 
-### `Chapter 04`: Version control with _Azure Repos_
+### `Chapter 04`: Version control with _Azure Repos_ (7 hours)
 
 - Introduction to Version Control & VCS
 - Advantages of Version Control
@@ -59,7 +60,7 @@
 - git Branching strategies
 - git Tags
 
-### `Chapter 05`: Automating Code Builds with _Azure Pipelines_
+### `Chapter 05`: Automating Code Builds with _Azure Pipelines_ (7 hours)
 
 - Continuous Integration (CI) and Continuous Deployment (CD) pipelines Overview
   - Continuous Integration (CI)
@@ -70,7 +71,7 @@
 - Azure Pipelines Build Script
 - Create an automated Azure DevOps CI Pipeline for Building an Application
 
-### `Chapter 06`: Running automated Tests with _Azure Pipelines_
+### `Chapter 06`: Running automated Tests with _Azure Pipelines_ (2 hours)
 
 - Overview of Software Testing
 - Continuous Testing
@@ -82,7 +83,7 @@
   - End-to-End Tests
 - Setting Up Testing in Azure Pipelines
 
-### `Chapter 07`: Managing build artifacts and packages with _Azure Artifacts_
+### `Chapter 07`: Managing build artifacts and packages with _Azure Artifacts_ (3 hours)
 
 - Overview of Artifact Repositories
 - Introduction to Azure Artifacts
@@ -91,13 +92,13 @@
 - Publishing Artifacts in Azure Pipelines
 - Downloading Artifacts in Azure Pipelines
 
-### `Chapter 08`: Automating application deployment with _Azure Pipelines_
+### `Chapter 08`: Automating application deployment with _Azure Pipelines_ (3 hours)
 
 - Continuous Deployment and Continuous Delivery in DevOps
 - Setting-up Release Pipelines
 - Setting-up multi-stage Release Pipelines
 
-### `Chapter 09`: Automating Infrastructure management with _Hashicorp Terraform_ / _ARM Templates_ / _Bicep_
+### `Chapter 09`: Automating Infrastructure management with _Hashicorp Terraform_ / _ARM Templates_ / _Bicep_ (6 hours)
 
 - Overview of Infrastructure Automation & IaC
 - Infrastructure Automation Tools on Azure
@@ -106,7 +107,7 @@
 - Create ARM Templates for Azure infrastructure
 - Automating ARM Templates deployment with Azure Pipelines
 
-### `Chapter 10`: Managing Containers with _Docker_
+### `Chapter 10`: Managing Containers with _Docker_ (7 hours)
 
 - Introduction to Containers
 - Benefits of Containers
@@ -118,7 +119,7 @@
 - Docker Volumes
 - Managing multi-container application with Docker Compose
 
-### `Chapter 11`: Orchestrating Containerized Application with _Kubernetes_
+### `Chapter 11`: Orchestrating Containerized Application with _Kubernetes_ (8 hours)
 
 - Demystifying Container Orchestration process
 - Introduction to Kubernetes
